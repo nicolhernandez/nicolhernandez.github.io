@@ -1,0 +1,186 @@
+.head{
+    color:green;
+}
+.content{
+    display:flex;
+    flex-direction: row;
+}
+
+.headeroptions{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.headeroptions{
+    background:rgb(168, 221, 168);
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#menu:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+#catering:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+#contact:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+#catering:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+#testimonial:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+#photos:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+.resturantname{
+    font-size:22px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.homephotos{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 85%;
+   margin-top: 30px;
+}
+
+#hours{
+    position:absolute;
+    bottom:10px;
+    right: 50px;
+    color: red;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#call{
+    position:absolute;
+    bottom:10px;
+    left: 50px;
+    color: red;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#location{
+    position: relative;
+    left:40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.voted{
+    text-align:right;
+    width:500px;
+    position:absolute;
+    bottom:130px;
+    right: 80px;
+    font-size:20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menuoptions{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.menuoptions{
+    background:rgb(168, 221, 168);
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.menupage{
+    font-size:22px;
+    font-family:'Courier New', Courier, monospace;
+    position:relative;
+    left:20px;
+    top:10px;
+}
+
+.special{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:16px;
+    color:red;
+    position:absolute;
+    left:40px;
+}
+
+.price{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:13px;
+    color:darkgreen;
+    position:absolute;
+    right:45px;
+    top:190px;
+}
+
+.plates{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:19px;
+    position: absolute;
+    bottom:215px;
+    left:40px;
+
+}
+
+.menupicture{
+    position:absolute;
+    bottom:30px;
+    left:90px;
+}
+
+#chicken:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+#beef:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#vegetarian:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#vegetarian:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#seafood:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
